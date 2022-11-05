@@ -1,0 +1,63 @@
+{
+    "message": {
+      "title": "Título do cartão",
+      "text": "O sésamo do bolo agarra dinamarquês do pão-de-espécie do queque eu amo o pão-de-espécie. Torta de torta de maçã jujuba chupa chups muffin halvah pirulito. Ameixa do açúcar do maçapão do tiramisu do bolo da aveia do bolo de chocolate. Bolo de aveia de torta doce rosquinha dragée fruitcake algodão doce gotas de limão.",
+      "pagelength": "Mostrando 1 para",
+      "of": "do",
+      "pageText2": "entradas",
+      "seachLabel": "Procurar",
+      "SearchPlaceholder": "Procurar",
+      "tableHeader": {
+        "name": "nome",
+        "email": "O email",
+        "date": "Encontro",
+        "salary": "Salário",
+        "status": "Status",
+        "action": "Açao"
+      }
+    },
+
+    "Information": "ข้อมูลทั่วไป",
+    "Prefix": "คำนำหน้า",
+    "Student ID": "รหัสนักศึกษา",
+    "Firstname": "ชื่อ",
+    "Surname": "นามสกุล",
+    "Faculty": "คณะ",
+    "Major": "สาขาวิชา",
+    "Class Year": "ชั้นปีที่",
+    "Class Room": "ห้อง",
+    "Advisor": "อาจารย์ที่ปรึกษา",
+    "GPA": "เกรดเฉลี่ย",
+    "Address": "ที่อยู่",
+    "Province": "จังหวัด",
+    "Amphur": "อำเภอ/เขต",
+    "Tumbol": "ตำบล/แขวง",
+    "Tel": "เบอร์โทรศัพท์",
+    "Email": "เมล",
+    "Contact": "ผู้ที่ติดต่อได้",
+    "Contact Name 1": "ชื่อผู้ติดต่อคนที่ 1",
+    "Contact Relation 1": "ความสัมพันธ์",
+    "Contact Tel 1": "เบอร์โทรศัพท์",
+    "Contact Name 2": "ชื่อผู้ติดต่อคนที่ 2",
+    "Contact Relation 2": "ความสัมพันธ์",
+    "Contact Tel 2": "เบอร์โทรศัพท์",
+
+    "Health Information": "ข้อมูลสุขภาพ",
+    "Health": "สุขภาพ",
+    "Blood Group": "กลุ่มเลือด",
+    "Height (cm.)": "ส่วนสูง (ซม.)",
+    "Weight (kg.)": "น้ำหนัก (กก.)",
+    "Emergency Tel": "เบอร์โทรศัพท์ฉุกเฉิน",
+    "Disease": "โรคประจำตัว",
+    "Drug Allergy": "ประวัติการแพ้ยา",
+    "Documents": "เอกสาร",
+    "Certificates": "ประกาศนียบัตร/การฝึกอบรม",
+    "Certificate Name": "ประกาศนียบัตร",
+    "File": "เอกสาร",
+    "View File": "ดูเอกสาร",
+    "Add New": "เพิ่มข้อมูล",
+
+    
+    "Save Changes": "บันทึก"
+  }
+  
